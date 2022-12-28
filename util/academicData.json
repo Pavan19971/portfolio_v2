@@ -1,0 +1,15 @@
+ [{
+    "degree": "Masters Degree",
+    "dept": "Department of Computer Science",
+    "date": "Sept 2019 - Feb 2021",
+    "univ": "Bishop's University",
+    "location": "Sherbrooke, Canada"
+},
+{
+    "degree": "Bachelors Degree",
+    "dept": "Department of Computer Science",
+    "date": "Spet 2014 - May 2018",
+    "univ": "Teegala Krishna Reddy Engineering College",
+    "location": "Hyderabad, India"
+}
+ ]

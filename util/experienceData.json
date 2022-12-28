@@ -1,0 +1,26 @@
+[
+    {
+        "designation": "IT Specialist",
+        "date": "Mar 2021 - Present",
+        "corp": "NB Power",
+        "location": "Fredericton, NB, Canada"
+    },
+    {
+        "designation": "Technical Consultant",
+        "date": "Mar 2020 - Present",
+        "corp": "CGI",
+        "location": "Sherbrooke, QC, Canada "
+    },
+    {
+        "designation": "Software Engineer",
+        "date": "OCt 2018 - Jul 2019",
+        "corp": "Abhibus Services India Pvt Ltd",
+        "location": "Hyderabad, India"
+    },
+    {
+        "designation": "Internship - Android Development",
+        "date": "Jun2017 - Nov 2017",
+        "corp": "NTR Trust",
+        "location": "Hyderabad, India"
+    }
+]
